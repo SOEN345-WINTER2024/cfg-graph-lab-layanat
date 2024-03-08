@@ -1,3 +1,26 @@
+## Layana Muhdi Al Tounsi  Lab 7
+
+# Calculator
+
+<img width="272" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-layanat/assets/98289247/0d39f036-68e6-471d-a568-5bb12e21e1bd">
+
+<img width="550" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-layanat/assets/98289247/640f1480-a788-4c6e-aa5b-aedb689ad5db">
+<img width="466" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-layanat/assets/98289247/4113b02e-c754-407d-aacb-ebeac09076bb">
+
+# K9 APP 
+<img width="290" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-layanat/assets/98289247/52778b0d-5785-44a5-927c-e23d6ed3c7a6">
+
+<img width="161" alt="image" src="https://github.com/SOEN345-WINTER2024/cfg-graph-lab-layanat/assets/98289247/4c656d86-4cde-4e1b-ac31-c9a2bee5de2c">
+
+
+
+
+
+
+
+
+
+
 # Soot Tutorial
 [![Build Status](https://travis-ci.com/noidsirius/SootTutorial.svg?branch=master)](https://travis-ci.com/noidsirius/SootTutorial)
 [![Gitpod ready-to-code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/noidsirius/SootTutorial)
